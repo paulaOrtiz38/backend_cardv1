@@ -2,6 +2,7 @@
 
 # Compiled output
 /env
+/venv
 /tmp
 /out-tsc
 /bazel-out
